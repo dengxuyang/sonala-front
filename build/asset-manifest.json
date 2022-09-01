@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.28ff106f.chunk.css",
-    "main.js": "/static/js/main.4f4c4561.chunk.js",
-    "main.js.map": "/static/js/main.4f4c4561.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d19b3531.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d19b3531.js.map",
-    "static/js/2.7ce80699.chunk.js": "/static/js/2.7ce80699.chunk.js",
-    "static/js/2.7ce80699.chunk.js.map": "/static/js/2.7ce80699.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.28ff106f.chunk.css.map": "/static/css/main.28ff106f.chunk.css.map",
-    "static/js/2.7ce80699.chunk.js.LICENSE.txt": "/static/js/2.7ce80699.chunk.js.LICENSE.txt"
+    "main.css": "/sonala-front/static/css/main.28ff106f.chunk.css",
+    "main.js": "/sonala-front/static/js/main.4f4c4561.chunk.js",
+    "main.js.map": "/sonala-front/static/js/main.4f4c4561.chunk.js.map",
+    "runtime-main.js": "/sonala-front/static/js/runtime-main.5e19678b.js",
+    "runtime-main.js.map": "/sonala-front/static/js/runtime-main.5e19678b.js.map",
+    "static/js/2.8b743585.chunk.js": "/sonala-front/static/js/2.8b743585.chunk.js",
+    "static/js/2.8b743585.chunk.js.map": "/sonala-front/static/js/2.8b743585.chunk.js.map",
+    "index.html": "/sonala-front/index.html",
+    "static/css/main.28ff106f.chunk.css.map": "/sonala-front/static/css/main.28ff106f.chunk.css.map",
+    "static/js/2.8b743585.chunk.js.LICENSE.txt": "/sonala-front/static/js/2.8b743585.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d19b3531.js",
-    "static/js/2.7ce80699.chunk.js",
+    "static/js/runtime-main.5e19678b.js",
+    "static/js/2.8b743585.chunk.js",
     "static/css/main.28ff106f.chunk.css",
     "static/js/main.4f4c4561.chunk.js"
   ]
